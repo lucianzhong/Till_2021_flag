@@ -41,3 +41,37 @@ https://blog.csdn.net/AdamShan?t=1
 
 
 11. https://blog.csdn.net/qq_30683329/category_9286189.html
+
+
+
+
+
+////////////////////////
+// c++ 进阶项目
+1. https://github.com/ytchhh/projectwithcomment
+
+2. https://github.com/resumejob/free-project-course#cc
+
+
+c++经典项目贪吃蛇游戏控制台版
+3. https://github.com/silence1772/GreedySnake
+
+
+4. https://www.jianshu.com/p/201b9bae392c
+
+
+5. https://www.cnblogs.com/chengxuyuanaa/p/11982163.html
+
+15个C++项目列表
+6. https://zhuanlan.zhihu.com/p/29361147
+
+精选 22 个 C++ 项目，推荐新人练手首选！
+7. https://zhuanlan.zhihu.com/p/86779615
+
+
+8. 教程
+https://github.com/Light-City/CPlusPlusThings
+
+
+9. 试验楼
+https://www.lanqiao.cn/courses/?tag=C%2B%2B&fee=all&sort=default&category=%E5%85%A8%E9%83%A8&page=1
