@@ -77,3 +77,8 @@ https://github.com/Light-City/CPlusPlusThings
 
 9. 试验楼
 https://www.lanqiao.cn/courses/?tag=C%2B%2B&fee=all&sort=default&category=%E5%85%A8%E9%83%A8&page=1
+
+
+///////////////////////////
+数值优化
+https://blog.csdn.net/fangqingan_java/category_4465461.html
