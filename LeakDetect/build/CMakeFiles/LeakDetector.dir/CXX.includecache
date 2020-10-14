@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/LeakDetector.h
+cstdlib
+-
+cwchar
+-
+
+/home/zy/Desktop/Till_2021_flag/LeakDetect/src/LeakDetector.cpp
+iostream
+-
+cstring
+-
+LeakDetector.h
+/home/zy/Desktop/Till_2021_flag/LeakDetect/src/LeakDetector.h
+

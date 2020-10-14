@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/MemoryPool.hpp
+climits
+-
+cstddef
+-
+
+../include/StackAlloc.hpp
+memory
+-
+
+/home/zy/Desktop/Till_2021_flag/MemoryPool/src/test.cpp
+iostream
+-
+cassert
+-
+ctime
+-
+vector
+-
+MemoryPool.hpp
+/home/zy/Desktop/Till_2021_flag/MemoryPool/src/MemoryPool.hpp
+StackAlloc.hpp
+/home/zy/Desktop/Till_2021_flag/MemoryPool/src/StackAlloc.hpp
+

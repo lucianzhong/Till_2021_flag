@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/LeakDetector_test.dir/src/test.cpp.o  -o LeakDetector_test libLeakDetector.a 

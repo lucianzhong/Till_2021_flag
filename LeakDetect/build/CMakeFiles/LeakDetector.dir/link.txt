@@ -1,0 +1,2 @@
+/usr/bin/ar qc libLeakDetector.a  CMakeFiles/LeakDetector.dir/src/LeakDetector.cpp.o
+/usr/bin/ranlib libLeakDetector.a

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/bank.h
+queue
+-
+list
+-
+
+/home/zy/Desktop/Till_2021_flag/Bank_queue/src/bank.cpp
+bank.h
+/home/zy/Desktop/Till_2021_flag/Bank_queue/src/bank.h
+iostream
+-
+clocale
+-
+chrono
+-
+cstdlib
+-
+algorithm
+-
+

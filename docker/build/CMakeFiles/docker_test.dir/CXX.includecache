@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/docker.hpp
+sys/wait.h
+-
+sys/mount.h
+-
+fcntl.h
+-
+unistd.h
+-
+sched.h
+-
+iostream
+-
+string
+-
+cstring
+-
+
+/home/zy/Desktop/Till_2021_flag/docker/src/docker.cpp
+docker.hpp
+/home/zy/Desktop/Till_2021_flag/docker/src/docker.hpp
+iostream
+-
+

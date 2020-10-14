@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/docker_test.dir/src/docker.cpp.o  -o docker_test 
