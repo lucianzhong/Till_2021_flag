@@ -50,3 +50,24 @@ static LeakDetector exitCounter;
 
 // 初始化 LeakDetector类中定义的静态变量
 size_t LeakDetector::_callCount = 0;
+
+
+
+
+
+
+
+
+
+
+3. 设计模式
+创建型的设计模式
+	简单工厂模式: 工厂角色（传入参数构建产品），产品角色
+	工厂方法模式: 工厂角色（创建不同的产品），产品角色
+	抽象工厂模式: 抽象工厂，具体工厂，抽象产品，具体产品
+
+	单例模式
+
+
+结构型的设计模式
+	适配器模式:在adapter中组合target和adaptee的需求函数
