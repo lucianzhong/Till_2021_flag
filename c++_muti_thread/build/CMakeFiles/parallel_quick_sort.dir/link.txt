@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/parallel_quick_sort.dir/src/parallel_quick_sort.cpp.o  -o parallel_quick_sort -lpthread 

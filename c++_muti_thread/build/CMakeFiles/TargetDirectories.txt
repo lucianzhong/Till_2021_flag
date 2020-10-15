@@ -1,0 +1,3 @@
+/home/zy/Desktop/Till_2021_flag/c++_muti_thread/build/CMakeFiles/edit_cache.dir
+/home/zy/Desktop/Till_2021_flag/c++_muti_thread/build/CMakeFiles/parallel_quick_sort.dir
+/home/zy/Desktop/Till_2021_flag/c++_muti_thread/build/CMakeFiles/rebuild_cache.dir

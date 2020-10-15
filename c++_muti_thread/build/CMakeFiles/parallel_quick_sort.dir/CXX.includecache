@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/myQuickSort.h
+iostream
+-
+list
+-
+vector
+-
+atomic
+-
+algorithm
+-
+future
+-
+myStack.h
+../include/myStack.h
+
+../include/myStack.h
+exception
+-
+stack
+-
+mutex
+-
+
+/home/zy/Desktop/Till_2021_flag/c++_muti_thread/src/parallel_quick_sort.cpp
+random
+-
+cstdlib
+-
+myQuickSort.h
+/home/zy/Desktop/Till_2021_flag/c++_muti_thread/src/myQuickSort.h
+
